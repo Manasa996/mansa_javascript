@@ -1,5 +1,5 @@
 📌 Tic-Tac-Toe Game 🎮
-A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a computer in this classic two-player game!
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play with another person in this classic two-player game!
 
 
 📷 Screenshot
@@ -14,7 +14,7 @@ JavaScript
 
 🎮 How to Play?
 Open the game in your browser.
-Player 1 (O) and Player 2 - computer (X) take turns clicking on the grid.
+Player 1 (O) and Player 2 (X) take turns clicking on the grid.
 The first player to get three in a row (horizontal, vertical, or diagonal) wins!
 
 
