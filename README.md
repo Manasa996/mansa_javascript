@@ -23,6 +23,9 @@ The first player to get three in a row (horizontal, vertical, or diagonal) wins!
 ✅ Two-player game
 ✅ Responsive design
 
+Netlify link
+https://imaginative-sprite-22475e.netlify.app/
+
 👩‍💻 Author
 👤 Manasa
 🔗 [Your GitHub Profile](https://github.com/Manasa996)
